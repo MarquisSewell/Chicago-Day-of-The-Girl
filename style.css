@@ -3,3 +3,8 @@
 body {
   background-color: #AD4DD1;
 }
+
+thumbnail {
+  opacity: 1;
+  margin-top: 10px;
+}
