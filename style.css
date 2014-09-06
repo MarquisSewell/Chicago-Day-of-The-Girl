@@ -5,6 +5,9 @@ body {
 }
 
 thumbnail {
-  opacity: 1;
   margin-top: 10px;
+}
+
+.navbar {
+  margin-botttom: 100px;
 }
